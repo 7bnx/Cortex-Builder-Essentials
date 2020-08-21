@@ -14,7 +14,7 @@
   "stackSize": "100",
   "makefileFPU": "",
   "makefileFLOATABI": "",
-  "startupFPU": "softvpf",
+  "startupFPU": "softvfp",
   "timer": "5",
   "adc": "10",
   "spi": "1",
