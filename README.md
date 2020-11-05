@@ -12,8 +12,14 @@ The following controllers are supported:
     - F3
     - F4
     - L0
+    - L1
+    - L4
 
 ## Changelog
+
+### 1.0.2
+
+Added STM32L1 and L4 - series
 
 ### 1.0.1
 
