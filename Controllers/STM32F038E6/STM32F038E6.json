@@ -20,7 +20,7 @@
   "spi": "1",
   "i2c": "1",
   "usart": "1",
-  "gpio": "038E6",
+  "gpio": "25",
   "jlinkTaskDevice": "STM32F038E6",
   "openocdTaskDevice": "stm32f0x",
   "svd": "STM32F0x8",

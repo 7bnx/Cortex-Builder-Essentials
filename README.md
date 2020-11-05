@@ -17,6 +17,10 @@ The following controllers are supported:
 
 ## Changelog
 
+### 1.0.3
+
+Fix stm32f038E6 and stm32f302k8 controllers
+
 ### 1.0.2
 
 Added STM32L1 and L4 - series
