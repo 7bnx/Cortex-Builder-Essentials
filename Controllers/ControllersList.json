@@ -69,7 +69,7 @@
   },
   {
     "label": "STM32F038E6",
-    "description": "Flash=32K, RAM=4K, GPIO=038E6, Clock=48MHz, Core=M0, USART=1, SPI=1, I2C=1, Timer=6"
+    "description": "Flash=32K, RAM=4K, GPIO=25, Clock=48MHz, Core=M0, USART=1, SPI=1, I2C=1, Timer=6"
   },
   {
     "label": "STM32F038F6",
@@ -869,7 +869,7 @@
   },
   {
     "label": "STM32F302K8",
-    "description": "Flash=64K, RAM=16K, GPIO=302K8>\r\n          <compile header=Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f3xx.h define=STM32F302x8, Clock=72MHz, Core=M4, USART=        <compile header=, SPI=1, I2C=1, Timer=14"
+    "description": "Flash=64K, RAM=16K, GPIO=32, Clock=72MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=14"
   },
   {
     "label": "STM32F302R6",
