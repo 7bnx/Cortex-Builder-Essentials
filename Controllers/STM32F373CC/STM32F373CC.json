@@ -124,5 +124,11 @@
     "TIM20_TRG_COM_IRQnHandler",
     "TIM20_CC_IRQnHandler",
     "FPU_IRQnHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0313",
+    "Datasheet/DS8845",
+    "Programming-Manual/PM0214",
+    "Errata/ES0189"
   ]
 }

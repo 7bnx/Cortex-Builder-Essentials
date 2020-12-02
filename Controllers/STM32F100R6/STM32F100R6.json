@@ -98,5 +98,12 @@
     "0",
     "TIM6_DAC_IRQHandler",
     "TIM7_IRQHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0008",
+    "Datasheet/DS6517",
+    "Programming-Manual/PM0056",
+    "Flash-Manual/PM0063",
+    "Errata/ES093"
   ]
 }

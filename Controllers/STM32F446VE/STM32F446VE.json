@@ -139,5 +139,11 @@
     "SPDIF_RX_IRQnHandler",
     "FMPI2C1_EV_IRQnHandler",
     "FMPI2C1_ER_IRQnHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0390",
+    "Datasheet/DS10693",
+    "Programming-Manual/PM0214",
+    "Errata/ES0298"
   ]
 }

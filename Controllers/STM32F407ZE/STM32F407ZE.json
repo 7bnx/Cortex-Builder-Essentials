@@ -124,5 +124,11 @@
     "0",
     "RNG_IRQnHandler",
     "FPU_IRQnHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0090",
+    "Datasheet/DS8626",
+    "Programming-Manual/PM0214",
+    "Errata/ES0182"
   ]
 }

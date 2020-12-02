@@ -128,5 +128,11 @@
     "0",
     "SPI4_IRQnHandler",
     "SPI5_IRQnHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0383",
+    "Datasheet/DS10314",
+    "Programming-Manual/PM0214",
+    "Errata/ES0287"
   ]
 }

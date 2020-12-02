@@ -74,5 +74,11 @@
     "0",
     "0",
     "USB_IRQHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0360",
+    "Datasheet/DS10697",
+    "Programming-Manual/PM0215",
+    "Errata/ES0291"
   ]
 }

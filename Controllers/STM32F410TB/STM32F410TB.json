@@ -140,5 +140,11 @@
     "FMPI2C1_EV_IRQnHandler",
     "FMPI2C1_ER_IRQnHandler",
     "LPTIM1_IRQnHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0401",
+    "Datasheet/DS11144",
+    "Programming-Manual/PM0214",
+    "Errata/ES0325"
   ]
 }

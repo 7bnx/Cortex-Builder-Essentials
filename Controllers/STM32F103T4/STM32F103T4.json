@@ -85,5 +85,12 @@
     "EXTI15_10_IRQHandler",
     "RTCAlarm_IRQHandler",
     "USBWakeUp_IRQHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0008",
+    "Datasheet/DS5936",
+    "Programming-Manual/PM0056",
+    "Flash-Manual/PM0075",
+    "Errata/ES0348"
   ]
 }

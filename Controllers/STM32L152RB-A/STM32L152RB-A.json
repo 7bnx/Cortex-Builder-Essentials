@@ -87,5 +87,11 @@
     "USB_FS_WKUP_IRQHandler",
     "TIM6_IRQHandler",
     "TIM7_IRQHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0038",
+    "Datasheet/DS9515",
+    "Programming-Manual/PM0056",
+    "Errata/ES0224"
   ]
 }

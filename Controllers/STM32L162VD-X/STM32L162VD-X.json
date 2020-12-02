@@ -99,5 +99,11 @@
     "DMA2_Channel5_IRQHandler",
     "AES_IRQHandler",
     "COMP_ACQ_IRQHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0038",
+    "Datasheet/DS10765",
+    "Programming-Manual/PM0056",
+    "Errata/ES0242"
   ]
 }

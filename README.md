@@ -1,7 +1,7 @@
 # Cortex Builder Essentials
 
 This repo supports [Cortex Builder](https://marketplace.visualstudio.com/items?itemName=semyon-ivanov.cortex-builder) extension for Visual Studio Code.  
-Consists of controllers descriptions, svd, includes and CMSIS-core files(Keil's version)
+Consists of controllers descriptions, svd, includes, CMSIS-core files(Keil's version), documentation
 
 ## Controllers
 
@@ -16,6 +16,12 @@ The following controllers are supported:
     - L4
 
 ## Changelog
+
+### 1.0.4
+
+ - Added documentation for controllers
+ - Added PDF.js
+ - Deleted duplicated controllers
 
 ### 1.0.3
 

@@ -133,5 +133,11 @@
     "LTDC_IRQnHandler",
     "LTDC_ER_IRQnHandler",
     "DMA2D_IRQnHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0090",
+    "Datasheet/DS9484",
+    "Programming-Manual/PM0214",
+    "Errata/ES0206"
   ]
 }

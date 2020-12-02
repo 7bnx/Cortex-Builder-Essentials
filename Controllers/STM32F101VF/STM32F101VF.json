@@ -102,5 +102,12 @@
     "DMA2_Channel2_IRQHandler",
     "DMA2_Channel3_IRQHandler",
     "DMA2_Channel4_5_IRQHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0008",
+    "Datasheet/DS6557",
+    "Programming-Manual/PM0056",
+    "Flash-Manual/PM0068",
+    "Errata/ES0346"
   ]
 }

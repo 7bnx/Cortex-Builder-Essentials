@@ -127,5 +127,11 @@
     "0",
     "0",
     "SPI4_IRQnHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0365",
+    "Datasheet/DS10592",
+    "Programming-Manual/PM0214",
+    "Errata/ES0284"
   ]
 }

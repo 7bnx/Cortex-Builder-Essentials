@@ -144,5 +144,11 @@
     "DFSDM2_FLT1_IRQnHandler",
     "DFSDM2_FLT2_IRQnHandler",
     "DFSDM2_FLT3_IRQnHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0430",
+    "Datasheet/DS11581",
+    "Programming-Manual/PM0214",
+    "Errata/ES0372"
   ]
 }

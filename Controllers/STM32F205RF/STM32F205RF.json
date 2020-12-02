@@ -121,5 +121,12 @@
     "0",
     "0",
     "HASH_RNG_IRQHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0033",
+    "Datasheet/DS6329",
+    "Programming-Manual/PM0056",
+    "Flash-Manual/PM0059",
+    "Errata/ES0005"
   ]
 }

@@ -74,5 +74,11 @@
     "0",
     "CEC_CAN_IRQHandler",
     "USB_IRQHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0091",
+    "Datasheet/DS10213",
+    "Programming-Manual/PM0215",
+    "Errata/ES0264"
   ]
 }

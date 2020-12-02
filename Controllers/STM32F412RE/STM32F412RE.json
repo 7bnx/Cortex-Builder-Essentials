@@ -139,5 +139,11 @@
     "0",
     "FMPI2C1_EV_IRQnHandler",
     "FMPI2C1_ER_IRQnHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0402",
+    "Datasheet/DS11139",
+    "Programming-Manual/PM0214",
+    "Errata/ES0305"
   ]
 }

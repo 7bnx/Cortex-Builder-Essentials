@@ -73,5 +73,11 @@
     "USART2_IRQHandler",
     "USART3_8_IRQHandler",
     "CEC_CAN_IRQHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0091",
+    "Datasheet/DS10312",
+    "Programming-Manual/PM0215",
+    "Errata/ES0282"
   ]
 }

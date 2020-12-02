@@ -110,5 +110,12 @@
     "CAN2_RX1_IRQHandler",
     "CAN2_SCE_IRQHandler",
     "OTG_FS_IRQHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0008",
+    "Datasheet/DS6014",
+    "Programming-Manual/PM0056",
+    "Flash-Manual/PM0075",
+    "Errata/ES022"
   ]
 }

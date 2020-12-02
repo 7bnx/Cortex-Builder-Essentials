@@ -1696,647 +1696,395 @@
     "description": "Flash=2048K, RAM=320K, GPIO=144, Clock=180MHz, Core=M4, USART=6, SPI=6, I2C=3, Timer=14"
   },
   {
-    "label": "STM32L010C6Tx",
+    "label": "STM32L010C6",
     "description": "Flash=32K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L010F4Px",
+    "label": "STM32L010F4",
     "description": "Flash=16K, RAM=2K, GPIO=20, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L010K4Tx",
+    "label": "STM32L010K4",
     "description": "Flash=16K, RAM=2K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L010K8Tx",
+    "label": "STM32L010K8",
     "description": "Flash=64K, RAM=8K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L010R8Tx",
+    "label": "STM32L010R8",
     "description": "Flash=64K, RAM=2K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L010RBTx",
+    "label": "STM32L010RB",
     "description": "Flash=128K, RAM=2K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L011D3Px",
+    "label": "STM32L011D3",
     "description": "Flash=8K, RAM=2K, GPIO=14, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L011D4Px",
+    "label": "STM32L011D4",
     "description": "Flash=16K, RAM=2K, GPIO=14, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L011E3Yx",
+    "label": "STM32L011E3",
     "description": "Flash=8K, RAM=2K, GPIO=25, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L011E4Yx",
+    "label": "STM32L011E4",
     "description": "Flash=16K, RAM=2K, GPIO=25, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L011F3Px",
+    "label": "STM32L011F3",
     "description": "Flash=8K, RAM=2K, GPIO=20, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L011F3Ux",
-    "description": "Flash=8K, RAM=2K, GPIO=20, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L011F4Px",
+    "label": "STM32L011F4",
     "description": "Flash=16K, RAM=2K, GPIO=20, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L011F4Ux",
-    "description": "Flash=16K, RAM=2K, GPIO=20, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L011G3Ux",
+    "label": "STM32L011G3",
     "description": "Flash=8K, RAM=2K, GPIO=28, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L011G4Ux",
+    "label": "STM32L011G4",
     "description": "Flash=16K, RAM=2K, GPIO=28, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L011K3Tx",
+    "label": "STM32L011K3",
     "description": "Flash=8K, RAM=2K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L011K3Ux",
-    "description": "Flash=8K, RAM=2K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L011K4Tx",
+    "label": "STM32L011K4",
     "description": "Flash=16K, RAM=2K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L011K4Ux",
-    "description": "Flash=16K, RAM=2K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L021D4Px",
+    "label": "STM32L021D4",
     "description": "Flash=16K, RAM=2K, GPIO=13, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L021F4Ux",
+    "label": "STM32L021F4",
     "description": "Flash=16K, RAM=2K, GPIO=20, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L021G4Ux",
+    "label": "STM32L021G4",
     "description": "Flash=16K, RAM=2K, GPIO=28, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L021K4Tx",
+    "label": "STM32L021K4",
     "description": "Flash=16K, RAM=2K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L031C4Tx",
+    "label": "STM32L031C4",
     "description": "Flash=16K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L031C4Ux",
-    "description": "Flash=16K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L031C6Tx",
+    "label": "STM32L031C6",
     "description": "Flash=32K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L031C6Ux",
-    "description": "Flash=32K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L031E4Yx",
+    "label": "STM32L031E4",
     "description": "Flash=16K, RAM=8K, GPIO=25, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L031E6Yx",
+    "label": "STM32L031E6",
     "description": "Flash=32K, RAM=8K, GPIO=25, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L031F4Px",
+    "label": "STM32L031F4",
     "description": "Flash=16K, RAM=8K, GPIO=20, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L031F6Px",
+    "label": "STM32L031F6",
     "description": "Flash=32K, RAM=8K, GPIO=20, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L031G4Ux",
+    "label": "STM32L031G4",
     "description": "Flash=16K, RAM=8K, GPIO=28, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L031G6Ux",
+    "label": "STM32L031G6",
     "description": "Flash=32K, RAM=8K, GPIO=28, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L031G6UxS",
-    "description": "Flash=32K, RAM=8K, GPIO=28, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L031K4Ux",
+    "label": "STM32L031K4",
     "description": "Flash=16K, RAM=8K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L031K6Tx",
+    "label": "STM32L031K6",
     "description": "Flash=32K, RAM=8K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L031K6Ux",
-    "description": "Flash=32K, RAM=8K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L041C6Tx",
+    "label": "STM32L041C6",
     "description": "Flash=32K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L041C6Ux",
-    "description": "Flash=32K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L041F6Px",
-    "description": "Flash=32K, RAM=8K, GPIO=20, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L041G6Ux",
-    "description": "Flash=32K, RAM=8K, GPIO=28, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L041G6UxS",
-    "description": "Flash=32K, RAM=8K, GPIO=28, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L041K6Tx",
-    "description": "Flash=32K, RAM=8K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L041K6Ux",
-    "description": "Flash=32K, RAM=8K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L041E6Yx",
+    "label": "STM32L041E6",
     "description": "Flash=32K, RAM=8K, GPIO=25, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L051C6Tx",
+    "label": "STM32L041F6",
+    "description": "Flash=32K, RAM=8K, GPIO=20, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
+  },
+  {
+    "label": "STM32L041G6",
+    "description": "Flash=32K, RAM=8K, GPIO=28, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
+  },
+  {
+    "label": "STM32L041K6",
+    "description": "Flash=32K, RAM=8K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
+  },
+  {
+    "label": "STM32L051C6",
     "description": "Flash=32K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L051C6Ux",
-    "description": "Flash=32K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L051C8Tx",
+    "label": "STM32L051C8",
     "description": "Flash=64K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L051C8Ux",
-    "description": "Flash=64K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L051K6Tx",
+    "label": "STM32L051K6",
     "description": "Flash=32K, RAM=8K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L051K6Ux",
-    "description": "Flash=32K, RAM=8K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L051K8Tx",
+    "label": "STM32L051K8",
     "description": "Flash=64K, RAM=8K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L051K8Ux",
-    "description": "Flash=64K, RAM=8K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L051R6Hx",
+    "label": "STM32L051R6",
     "description": "Flash=32K, RAM=8K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L051R6Tx",
-    "description": "Flash=32K, RAM=8K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L051R8Hx",
+    "label": "STM32L051R8",
     "description": "Flash=64K, RAM=8K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L051R8Tx",
-    "description": "Flash=64K, RAM=8K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L051T6Yx",
+    "label": "STM32L051T6",
     "description": "Flash=32K, RAM=8K, GPIO=36, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L051T8Yx",
+    "label": "STM32L051T8",
     "description": "Flash=64K, RAM=8K, GPIO=36, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L052C6Tx",
+    "label": "STM32L052C6",
     "description": "Flash=32K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L052C6Ux",
-    "description": "Flash=32K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L052C8Tx",
+    "label": "STM32L052C8",
     "description": "Flash=64K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L052C8Ux",
-    "description": "Flash=64K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L052K6Tx",
+    "label": "STM32L052K6",
     "description": "Flash=32K, RAM=8K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L052K6Ux",
-    "description": "Flash=32K, RAM=8K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L052K8Tx",
+    "label": "STM32L052K8",
     "description": "Flash=64K, RAM=8K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L052K8Ux",
-    "description": "Flash=64K, RAM=8K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L052R6Hx",
+    "label": "STM32L052R6",
     "description": "Flash=32K, RAM=8K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L052R6Tx",
-    "description": "Flash=32K, RAM=8K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L052R8Hx",
+    "label": "STM32L052R8",
     "description": "Flash=64K, RAM=8K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L052R8Tx",
-    "description": "Flash=64K, RAM=8K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L052T6Yx",
+    "label": "STM32L052T6",
     "description": "Flash=32K, RAM=8K, GPIO=36, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L052T8Yx",
+    "label": "STM32L052T8",
     "description": "Flash=64K, RAM=8K, GPIO=36, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L052T8Fx",
-    "description": "Flash=64K, RAM=8K, GPIO=36, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L053C6Tx",
+    "label": "STM32L053C6",
     "description": "Flash=32K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L053C6Ux",
-    "description": "Flash=32K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L053C8Tx",
+    "label": "STM32L053C8",
     "description": "Flash=64K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L053C8Ux",
-    "description": "Flash=64K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L053R6Hx",
+    "label": "STM32L053R6",
     "description": "Flash=32K, RAM=8K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L053R6Tx",
-    "description": "Flash=32K, RAM=8K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L053R8Hx",
+    "label": "STM32L053R8",
     "description": "Flash=64K, RAM=8K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L053R8Tx",
-    "description": "Flash=64K, RAM=8K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L062K8Tx",
-    "description": "Flash=64K, RAM=8K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L062K8Ux",
-    "description": "Flash=64K, RAM=8K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L062C8Ux",
+    "label": "STM32L062C8",
     "description": "Flash=64K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L063C8Tx",
+    "label": "STM32L062K8",
+    "description": "Flash=64K, RAM=8K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
+  },
+  {
+    "label": "STM32L063C8",
     "description": "Flash=64K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L063C8Ux",
-    "description": "Flash=64K, RAM=8K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L063R8Tx",
+    "label": "STM32L063R8",
     "description": "Flash=64K, RAM=8K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=2, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L071C8Tx",
+    "label": "STM32L071C8",
     "description": "Flash=64K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L071C8Ux",
-    "description": "Flash=64K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L071CBTx",
+    "label": "STM32L071CB",
     "description": "Flash=128K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L071CBUx",
-    "description": "Flash=128K, RAM=20K, GPIO=49, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L071CZTx",
+    "label": "STM32L071CZ",
     "description": "Flash=192K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L071CZUx",
-    "description": "Flash=192K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L071CZYx",
-    "description": "Flash=192K, RAM=20K, GPIO=49, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L071K8Ux",
+    "label": "STM32L071K8",
     "description": "Flash=64K, RAM=20K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L071KBTx",
+    "label": "STM32L071KB",
     "description": "Flash=128K, RAM=20K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L071KBUx",
+    "label": "STM32L071KZ",
+    "description": "Flash=192K, RAM=20K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
+  },
+  {
+    "label": "STM32L071RB",
+    "description": "Flash=128K, RAM=20K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
+  },
+  {
+    "label": "STM32L071RZ",
+    "description": "Flash=192K, RAM=20K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
+  },
+  {
+    "label": "STM32L071V8",
+    "description": "Flash=64K, RAM=20K, GPIO=100, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
+  },
+  {
+    "label": "STM32L071VB",
+    "description": "Flash=128K, RAM=20K, GPIO=100, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
+  },
+  {
+    "label": "STM32L071VZ",
+    "description": "Flash=192K, RAM=20K, GPIO=100, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
+  },
+  {
+    "label": "STM32L072CB",
+    "description": "Flash=128K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
+  },
+  {
+    "label": "STM32L072CZ",
+    "description": "Flash=192K, RAM=20K, GPIO=49, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
+  },
+  {
+    "label": "STM32L072KB",
     "description": "Flash=128K, RAM=20K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L071KZTx",
+    "label": "STM32L072KZ",
     "description": "Flash=192K, RAM=20K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L071KZUx",
-    "description": "Flash=192K, RAM=20K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L071RBHx",
+    "label": "STM32L072RB",
     "description": "Flash=128K, RAM=20K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L071RBTx",
-    "description": "Flash=128K, RAM=20K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L071RZHx",
+    "label": "STM32L072RZ",
     "description": "Flash=192K, RAM=20K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L071RZTx",
-    "description": "Flash=192K, RAM=20K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L071V8Tx",
+    "label": "STM32L072V8",
     "description": "Flash=64K, RAM=20K, GPIO=100, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L071VBTx",
+    "label": "STM32L072VB",
     "description": "Flash=128K, RAM=20K, GPIO=100, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L071VZTx",
+    "label": "STM32L072VZ",
     "description": "Flash=192K, RAM=20K, GPIO=100, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L072CBTx",
+    "label": "STM32L073CB",
     "description": "Flash=128K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L072CBUx",
-    "description": "Flash=128K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L072CBYx",
-    "description": "Flash=128K, RAM=20K, GPIO=49, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L072CZEx",
-    "description": "Flash=192K, RAM=20K, GPIO=49, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L072CZTx",
+    "label": "STM32L073CZ",
     "description": "Flash=192K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L072CZUx",
-    "description": "Flash=192K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L072CZYx",
-    "description": "Flash=192K, RAM=20K, GPIO=49, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L072KBUx",
-    "description": "Flash=128K, RAM=20K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L072KZTx",
-    "description": "Flash=192K, RAM=20K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L072KZUx",
-    "description": "Flash=192K, RAM=20K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L072RBHx",
+    "label": "STM32L073RB",
     "description": "Flash=128K, RAM=20K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L072RBIx",
-    "description": "Flash=128K, RAM=20K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L072RBTx",
-    "description": "Flash=128K, RAM=20K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L072RZIx",
+    "label": "STM32L073RZ",
     "description": "Flash=192K, RAM=20K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L072RZTx",
-    "description": "Flash=192K, RAM=20K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L072V8Ix",
+    "label": "STM32L073V8",
     "description": "Flash=64K, RAM=20K, GPIO=100, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L072V8Tx",
-    "description": "Flash=64K, RAM=20K, GPIO=100, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L072VBTx",
+    "label": "STM32L073VB",
     "description": "Flash=128K, RAM=20K, GPIO=100, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L072VZIx",
+    "label": "STM32L073VZ",
     "description": "Flash=192K, RAM=20K, GPIO=100, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L072VZTx",
-    "description": "Flash=192K, RAM=20K, GPIO=100, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
+    "label": "STM32L081CB",
+    "description": "Flash=192K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L073CBTx",
+    "label": "STM32L081CZ",
+    "description": "Flash=192K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
+  },
+  {
+    "label": "STM32L081KZ",
+    "description": "Flash=192K, RAM=20K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
+  },
+  {
+    "label": "STM32L082CZ",
+    "description": "Flash=192K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
+  },
+  {
+    "label": "STM32L082KZ",
+    "description": "Flash=192K, RAM=20K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
+  },
+  {
+    "label": "STM32L083CB",
     "description": "Flash=128K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L073CBUx",
-    "description": "Flash=128K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L073CZTx",
+    "label": "STM32L083CZ",
     "description": "Flash=192K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L073CZUx",
-    "description": "Flash=192K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L073CZYx",
-    "description": "Flash=192K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L073RBHx",
+    "label": "STM32L083RB",
     "description": "Flash=128K, RAM=20K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L073RBTx",
-    "description": "Flash=128K, RAM=20K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L073RZHx",
+    "label": "STM32L083RZ",
     "description": "Flash=192K, RAM=20K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L073RZIx",
-    "description": "Flash=192K, RAM=20K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L073RZTx",
-    "description": "Flash=192K, RAM=20K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L073V8Tx",
-    "description": "Flash=64K, RAM=20K, GPIO=100, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L073VBTx",
-    "description": "Flash=128K, RAM=20K, GPIO=100, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L073VZIx",
-    "description": "Flash=192K, RAM=20K, GPIO=100, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L073VZTx",
-    "description": "Flash=192K, RAM=20K, GPIO=100, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L081CBTx",
-    "description": "Flash=192K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L081CZTx",
-    "description": "Flash=192K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L081CZUx",
-    "description": "Flash=192K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L081KZTx",
-    "description": "Flash=192K, RAM=20K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L081KZUx",
-    "description": "Flash=192K, RAM=20K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L082KZTx",
-    "description": "Flash=192K, RAM=20K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L082KZUx",
-    "description": "Flash=192K, RAM=20K, GPIO=32, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L082CZYx",
-    "description": "Flash=192K, RAM=20K, GPIO=49, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L082CZUx",
-    "description": "Flash=192K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L083CBTx",
-    "description": "Flash=128K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L083CZTx",
-    "description": "Flash=192K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L083CZUx",
-    "description": "Flash=192K, RAM=20K, GPIO=48, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L083RBHx",
-    "description": "Flash=128K, RAM=20K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L083RZHx",
-    "description": "Flash=192K, RAM=20K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L083RZTx",
-    "description": "Flash=192K, RAM=20K, GPIO=64, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L083V8Tx",
+    "label": "STM32L083V8",
     "description": "Flash=64K, RAM=320K, GPIO=100, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L083VBTx",
+    "label": "STM32L083VB",
     "description": "Flash=128K, RAM=20K, GPIO=100, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
-    "label": "STM32L083VZIx",
-    "description": "Flash=192K, RAM=20K, GPIO=100, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
-  },
-  {
-    "label": "STM32L083VZTx",
+    "label": "STM32L083VZ",
     "description": "Flash=192K, RAM=20K, GPIO=100, Clock=32MHz, Core=M0, USART=3, SPI=1, I2C=2, Timer=5"
   },
   {
@@ -2376,36 +2124,12 @@
     "description": "Flash=32K, RAM=16K, GPIO=48, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
   },
   {
-    "label": "STM32L151R6",
-    "description": "Flash=32K, RAM=10K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
-  },
-  {
-    "label": "STM32L151R6-A",
-    "description": "Flash=32K, RAM=16K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
-  },
-  {
     "label": "STM32L151C8",
     "description": "Flash=64K, RAM=10K, GPIO=48, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
   },
   {
     "label": "STM32L151C8-A",
     "description": "Flash=64K, RAM=32K, GPIO=48, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
-  },
-  {
-    "label": "STM32L151R8",
-    "description": "Flash=64K, RAM=10K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
-  },
-  {
-    "label": "STM32L151R8-A",
-    "description": "Flash=64K, RAM=32K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
-  },
-  {
-    "label": "STM32L151V8",
-    "description": "Flash=64K, RAM=10K, GPIO=100, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
-  },
-  {
-    "label": "STM32L151V8-A",
-    "description": "Flash=64K, RAM=32K, GPIO=100, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
   },
   {
     "label": "STM32L151CB",
@@ -2416,28 +2140,44 @@
     "description": "Flash=128K, RAM=32K, GPIO=48, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
   },
   {
-    "label": "STM32L151RB",
-    "description": "Flash=128K, RAM=16K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
-  },
-  {
-    "label": "STM32L151RB-A",
-    "description": "Flash=128K, RAM=32K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
-  },
-  {
-    "label": "STM32L151VB",
-    "description": "Flash=128K, RAM=16K, GPIO=100, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
-  },
-  {
-    "label": "STM32L151VB-A",
-    "description": "Flash=128K, RAM=32K, GPIO=100, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
-  },
-  {
     "label": "STM32L151CC",
     "description": "Flash=256K, RAM=32K, GPIO=48, Clock=32MHz, Core=M3, USART=3, SPI=3, I2C=1, Timer=9"
   },
   {
     "label": "STM32L151QC",
     "description": "Flash=256K, RAM=32K, GPIO=132, Clock=32MHz, Core=M3, USART=3, SPI=3, I2C=1, Timer=9"
+  },
+  {
+    "label": "STM32L151QD",
+    "description": "Flash=384K, RAM=48K, GPIO=132, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
+  },
+  {
+    "label": "STM32L151QE",
+    "description": "Flash=512K, RAM=80K, GPIO=132, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
+  },
+  {
+    "label": "STM32L151R6",
+    "description": "Flash=32K, RAM=10K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
+  },
+  {
+    "label": "STM32L151R6-A",
+    "description": "Flash=32K, RAM=16K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
+  },
+  {
+    "label": "STM32L151R8",
+    "description": "Flash=64K, RAM=10K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
+  },
+  {
+    "label": "STM32L151R8-A",
+    "description": "Flash=64K, RAM=32K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
+  },
+  {
+    "label": "STM32L151RB",
+    "description": "Flash=128K, RAM=16K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
+  },
+  {
+    "label": "STM32L151RB-A",
+    "description": "Flash=128K, RAM=32K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
   },
   {
     "label": "STM32L151RC",
@@ -2448,8 +2188,32 @@
     "description": "Flash=256K, RAM=32K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=3, I2C=1, Timer=9"
   },
   {
+    "label": "STM32L151RD",
+    "description": "Flash=384K, RAM=48K, GPIO=64, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
+  },
+  {
+    "label": "STM32L151RE",
+    "description": "Flash=512K, RAM=80K, GPIO=64, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
+  },
+  {
     "label": "STM32L151UC",
     "description": "Flash=256K, RAM=32K, GPIO=63, Clock=32MHz, Core=M3, USART=3, SPI=3, I2C=1, Timer=9"
+  },
+  {
+    "label": "STM32L151V8",
+    "description": "Flash=64K, RAM=10K, GPIO=100, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
+  },
+  {
+    "label": "STM32L151V8-A",
+    "description": "Flash=64K, RAM=32K, GPIO=100, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
+  },
+  {
+    "label": "STM32L151VB",
+    "description": "Flash=128K, RAM=16K, GPIO=100, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
+  },
+  {
+    "label": "STM32L151VB-A",
+    "description": "Flash=128K, RAM=32K, GPIO=100, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
   },
   {
     "label": "STM32L151VC",
@@ -2460,18 +2224,6 @@
     "description": "Flash=256K, RAM=32K, GPIO=100, Clock=32MHz, Core=M3, USART=3, SPI=3, I2C=1, Timer=9"
   },
   {
-    "label": "STM32L151ZC",
-    "description": "Flash=256K, RAM=32K, GPIO=144, Clock=32MHz, Core=M3, USART=3, SPI=3, I2C=1, Timer=9"
-  },
-  {
-    "label": "STM32L151QD",
-    "description": "Flash=384K, RAM=48K, GPIO=132, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
-  },
-  {
-    "label": "STM32L151RD",
-    "description": "Flash=384K, RAM=48K, GPIO=64, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
-  },
-  {
     "label": "STM32L151VD",
     "description": "Flash=384K, RAM=48K, GPIO=100, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
   },
@@ -2480,20 +2232,16 @@
     "description": "Flash=384K, RAM=48K, GPIO=100, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
   },
   {
-    "label": "STM32L151ZD",
-    "description": "Flash=384K, RAM=48K, GPIO=144, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
-  },
-  {
-    "label": "STM32L151QE",
-    "description": "Flash=512K, RAM=80K, GPIO=132, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
-  },
-  {
-    "label": "STM32L151RE",
-    "description": "Flash=512K, RAM=80K, GPIO=64, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
-  },
-  {
     "label": "STM32L151VE",
     "description": "Flash=512K, RAM=80K, GPIO=100, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
+  },
+  {
+    "label": "STM32L151ZC",
+    "description": "Flash=256K, RAM=32K, GPIO=144, Clock=32MHz, Core=M3, USART=3, SPI=3, I2C=1, Timer=9"
+  },
+  {
+    "label": "STM32L151ZD",
+    "description": "Flash=384K, RAM=48K, GPIO=144, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
   },
   {
     "label": "STM32L151ZE",
@@ -2508,36 +2256,12 @@
     "description": "Flash=32K, RAM=16K, GPIO=48, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
   },
   {
-    "label": "STM32L152R6",
-    "description": "Flash=32K, RAM=10K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
-  },
-  {
-    "label": "STM32L152R6-A",
-    "description": "Flash=32K, RAM=16K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
-  },
-  {
     "label": "STM32L152C8",
     "description": "Flash=64K, RAM=10K, GPIO=48, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
   },
   {
     "label": "STM32L152C8-A",
     "description": "Flash=64K, RAM=32K, GPIO=48, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
-  },
-  {
-    "label": "STM32L152R8",
-    "description": "Flash=64K, RAM=10K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
-  },
-  {
-    "label": "STM32L152R8-A",
-    "description": "Flash=64K, RAM=32K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
-  },
-  {
-    "label": "STM32L152V8",
-    "description": "Flash=64K, RAM=10K, GPIO=100, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
-  },
-  {
-    "label": "STM32L152V8-A",
-    "description": "Flash=64K, RAM=32K, GPIO=100, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
   },
   {
     "label": "STM32L152CB",
@@ -2548,28 +2272,44 @@
     "description": "Flash=128K, RAM=32K, GPIO=48, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
   },
   {
-    "label": "STM32L152RB",
-    "description": "Flash=128K, RAM=16K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
-  },
-  {
-    "label": "STM32L152RB-A",
-    "description": "Flash=128K, RAM=32K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
-  },
-  {
-    "label": "STM32L152VB",
-    "description": "Flash=128K, RAM=16K, GPIO=100, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
-  },
-  {
-    "label": "STM32L152VB-A",
-    "description": "Flash=128K, RAM=32K, GPIO=100, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
-  },
-  {
     "label": "STM32L152CC",
     "description": "Flash=256K, RAM=32K, GPIO=48, Clock=32MHz, Core=M3, USART=3, SPI=3, I2C=1, Timer=9"
   },
   {
     "label": "STM32L152QC",
     "description": "Flash=256K, RAM=32K, GPIO=132, Clock=32MHz, Core=M3, USART=3, SPI=3, I2C=1, Timer=9"
+  },
+  {
+    "label": "STM32L152QD",
+    "description": "Flash=384K, RAM=48K, GPIO=132, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
+  },
+  {
+    "label": "STM32L152QE",
+    "description": "Flash=512K, RAM=80K, GPIO=132, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
+  },
+  {
+    "label": "STM32L152R6",
+    "description": "Flash=32K, RAM=10K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
+  },
+  {
+    "label": "STM32L152R6-A",
+    "description": "Flash=32K, RAM=16K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
+  },
+  {
+    "label": "STM32L152R8",
+    "description": "Flash=64K, RAM=10K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
+  },
+  {
+    "label": "STM32L152R8-A",
+    "description": "Flash=64K, RAM=32K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
+  },
+  {
+    "label": "STM32L152RB",
+    "description": "Flash=128K, RAM=16K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
+  },
+  {
+    "label": "STM32L152RB-A",
+    "description": "Flash=128K, RAM=32K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
   },
   {
     "label": "STM32L152RC",
@@ -2580,8 +2320,32 @@
     "description": "Flash=256K, RAM=32K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=3, I2C=1, Timer=9"
   },
   {
+    "label": "STM32L152RD",
+    "description": "Flash=384K, RAM=48K, GPIO=64, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
+  },
+  {
+    "label": "STM32L152RE",
+    "description": "Flash=512K, RAM=80K, GPIO=64, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
+  },
+  {
     "label": "STM32L152UC",
     "description": "Flash=256K, RAM=32K, GPIO=63, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
+  },
+  {
+    "label": "STM32L152V8",
+    "description": "Flash=64K, RAM=10K, GPIO=100, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
+  },
+  {
+    "label": "STM32L152V8-A",
+    "description": "Flash=64K, RAM=32K, GPIO=100, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
+  },
+  {
+    "label": "STM32L152VB",
+    "description": "Flash=128K, RAM=16K, GPIO=100, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=6"
+  },
+  {
+    "label": "STM32L152VB-A",
+    "description": "Flash=128K, RAM=32K, GPIO=100, Clock=32MHz, Core=M3, USART=3, SPI=2, I2C=1, Timer=8"
   },
   {
     "label": "STM32L152VC",
@@ -2592,18 +2356,6 @@
     "description": "Flash=256K, RAM=32K, GPIO=100, Clock=32MHz, Core=M3, USART=3, SPI=3, I2C=1, Timer=9"
   },
   {
-    "label": "STM32L152ZC",
-    "description": "Flash=256K, RAM=32K, GPIO=144, Clock=32MHz, Core=M3, USART=3, SPI=3, I2C=1, Timer=9"
-  },
-  {
-    "label": "STM32L152QD",
-    "description": "Flash=384K, RAM=48K, GPIO=132, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
-  },
-  {
-    "label": "STM32L152RD",
-    "description": "Flash=384K, RAM=48K, GPIO=64, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
-  },
-  {
     "label": "STM32L152VD",
     "description": "Flash=384K, RAM=48K, GPIO=100, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
   },
@@ -2612,20 +2364,16 @@
     "description": "Flash=384K, RAM=48K, GPIO=100, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
   },
   {
-    "label": "STM32L152ZD",
-    "description": "Flash=384K, RAM=48K, GPIO=144, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
-  },
-  {
-    "label": "STM32L152QE",
-    "description": "Flash=512K, RAM=80K, GPIO=132, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
-  },
-  {
-    "label": "STM32L152RE",
-    "description": "Flash=512K, RAM=80K, GPIO=64, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
-  },
-  {
     "label": "STM32L152VE",
     "description": "Flash=512K, RAM=80K, GPIO=100, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
+  },
+  {
+    "label": "STM32L152ZC",
+    "description": "Flash=256K, RAM=32K, GPIO=144, Clock=32MHz, Core=M3, USART=3, SPI=3, I2C=1, Timer=9"
+  },
+  {
+    "label": "STM32L152ZD",
+    "description": "Flash=384K, RAM=48K, GPIO=144, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
   },
   {
     "label": "STM32L152ZE",
@@ -2636,6 +2384,10 @@
     "description": "Flash=256K, RAM=32K, GPIO=132, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
   },
   {
+    "label": "STM32L162QD",
+    "description": "Flash=384K, RAM=48K, GPIO=132, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
+  },
+  {
     "label": "STM32L162RC",
     "description": "Flash=256K, RAM=32K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=3, I2C=1, Timer=9"
   },
@@ -2644,24 +2396,20 @@
     "description": "Flash=256K, RAM=32K, GPIO=64, Clock=32MHz, Core=M3, USART=3, SPI=3, I2C=1, Timer=9"
   },
   {
+    "label": "STM32L162RD",
+    "description": "Flash=384K, RAM=48K, GPIO=64, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
+  },
+  {
+    "label": "STM32L162RE",
+    "description": "Flash=512K, RAM=80K, GPIO=64, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
+  },
+  {
     "label": "STM32L162VC",
     "description": "Flash=256K, RAM=32K, GPIO=100, Clock=32MHz, Core=M3, USART=3, SPI=3, I2C=1, Timer=9"
   },
   {
     "label": "STM32L162VC-A",
-    "description": "Flash=256K, RAM=32K, GPIO=100, Clock=32MHz, Core=M3, USART=3, SPI=3, I2C=1, Timer=9"
-  },
-  {
-    "label": "STM32L162VC-A",
     "description": "Flash=256K, RAM=32K, GPIO=144, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
-  },
-  {
-    "label": "STM32L162QD",
-    "description": "Flash=384K, RAM=48K, GPIO=132, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
-  },
-  {
-    "label": "STM32L162RD",
-    "description": "Flash=384K, RAM=48K, GPIO=64, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
   },
   {
     "label": "STM32L162VD",
@@ -2672,975 +2420,579 @@
     "description": "Flash=384K, RAM=48K, GPIO=104, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
   },
   {
-    "label": "STM32L162ZD",
-    "description": "Flash=384K, RAM=48K, GPIO=144, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
-  },
-  {
-    "label": "STM32L162RE",
-    "description": "Flash=512K, RAM=80K, GPIO=64, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
-  },
-  {
     "label": "STM32L162VE",
     "description": "Flash=512K, RAM=80K, GPIO=100, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
+  },
+  {
+    "label": "STM32L162ZD",
+    "description": "Flash=384K, RAM=48K, GPIO=144, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
   },
   {
     "label": "STM32L162ZE",
     "description": "Flash=512K, RAM=80K, GPIO=144, Clock=32MHz, Core=M3, USART=5, SPI=3, I2C=1, Timer=9"
   },
   {
-    "label": "STM32L412C8TX",
+    "label": "STM32L412C8",
     "description": "Flash=64K, RAM=32K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L412C8UX",
-    "description": "Flash=64K, RAM=32K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
+    "label": "STM32L412CB",
+    "description": "Flash=128K, RAM=32K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L412K8TX",
+    "label": "STM32L412K8",
     "description": "Flash=64K, RAM=32K, GPIO=32, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L412K8UX",
-    "description": "Flash=64K, RAM=32K, GPIO=32, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
+    "label": "STM32L412KB",
+    "description": "Flash=128K, RAM=32K, GPIO=32, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L412R8TX",
+    "label": "STM32L412R8",
     "description": "Flash=64K, RAM=32K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L412R8IX",
-    "description": "Flash=64K, RAM=32K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
+    "label": "STM32L412RB",
+    "description": "Flash=128K, RAM=32K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L412T8YX",
+    "label": "STM32L412T8",
     "description": "Flash=64K, RAM=32K, GPIO=36, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L412CBTX",
-    "description": "Flash=128K, RAM=32K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L412CBTXP",
-    "description": "Flash=128K, RAM=32K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L412CBUX",
-    "description": "Flash=128K, RAM=32K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L412CBUXP",
-    "description": "Flash=128K, RAM=32K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L412KBTX",
-    "description": "Flash=128K, RAM=32K, GPIO=32, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L412KBUX",
-    "description": "Flash=128K, RAM=32K, GPIO=32, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L412RBTX",
-    "description": "Flash=128K, RAM=32K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L412RBTXP",
-    "description": "Flash=128K, RAM=32K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L412RBIX",
-    "description": "Flash=128K, RAM=32K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L412RBIXP",
-    "description": "Flash=128K, RAM=32K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L412TBYX",
+    "label": "STM32L412TB",
     "description": "Flash=128K, RAM=32K, GPIO=36, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L412TBYXP",
-    "description": "Flash=128K, RAM=32K, GPIO=36, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L422CBTX",
+    "label": "STM32L422CB",
     "description": "Flash=128K, RAM=32K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L422CBUX",
-    "description": "Flash=128K, RAM=32K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L422KBTX",
+    "label": "STM32L422KB",
     "description": "Flash=128K, RAM=32K, GPIO=32, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L422KBUX",
-    "description": "Flash=128K, RAM=32K, GPIO=32, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L422RBIX",
+    "label": "STM32L422RB",
     "description": "Flash=128K, RAM=32K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L422RBTX",
-    "description": "Flash=128K, RAM=32K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L422TBYX",
+    "label": "STM32L422TB",
     "description": "Flash=128K, RAM=32K, GPIO=36, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L431CCTX",
-    "description": "Flash=256K, RAM=48K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L431CCUX",
-    "description": "Flash=256K, RAM=48K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L431CCYX",
-    "description": "Flash=256K, RAM=48K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L431KCUX",
-    "description": "Flash=256K, RAM=48K, GPIO=32, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L431RCTX",
-    "description": "Flash=256K, RAM=48K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L431RCYX",
-    "description": "Flash=256K, RAM=48K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L431RCIX",
-    "description": "Flash=256K, RAM=48K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L431VCTX",
-    "description": "Flash=256K, RAM=48K, GPIO=100, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L431VCIX",
-    "description": "Flash=256K, RAM=48K, GPIO=100, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L431CBTX",
+    "label": "STM32L431CB",
     "description": "Flash=128K, RAM=48K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L431CBUX",
-    "description": "Flash=128K, RAM=48K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
+    "label": "STM32L431CC",
+    "description": "Flash=256K, RAM=48K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L431CBYX",
-    "description": "Flash=128K, RAM=48K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L431KBUX",
+    "label": "STM32L431KB",
     "description": "Flash=128K, RAM=48K, GPIO=32, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L431RBTX",
+    "label": "STM32L431KC",
+    "description": "Flash=256K, RAM=48K, GPIO=32, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
+  },
+  {
+    "label": "STM32L431RB",
     "description": "Flash=128K, RAM=48K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L431RBYX",
-    "description": "Flash=128K, RAM=48K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
+    "label": "STM32L431RC",
+    "description": "Flash=256K, RAM=48K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L431RBIX",
-    "description": "Flash=128K, RAM=48K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
+    "label": "STM32L431VC",
+    "description": "Flash=256K, RAM=48K, GPIO=100, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L432KCUX",
-    "description": "Flash=256K, RAM=48K, GPIO=32, Clock=80MHz, Core=M4, USART=3, SPI=2, I2C=2, Timer=11"
-  },
-  {
-    "label": "STM32L432KBUX",
+    "label": "STM32L432KB",
     "description": "Flash=128K, RAM=48K, GPIO=32, Clock=80MHz, Core=M4, USART=3, SPI=2, I2C=2, Timer=11"
   },
   {
-    "label": "STM32L433CCTX",
-    "description": "Flash=256K, RAM=48K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
+    "label": "STM32L432KC",
+    "description": "Flash=256K, RAM=48K, GPIO=32, Clock=80MHz, Core=M4, USART=3, SPI=2, I2C=2, Timer=11"
   },
   {
-    "label": "STM32L433CCUX",
-    "description": "Flash=256K, RAM=48K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L433CCYX",
-    "description": "Flash=256K, RAM=48K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L433RCIX",
-    "description": "Flash=256K, RAM=48K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L433RCTX",
-    "description": "Flash=256K, RAM=48K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L433RCTXP",
-    "description": "Flash=256K, RAM=48K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L433RCYX",
-    "description": "Flash=256K, RAM=48K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L433VCTX",
-    "description": "Flash=256K, RAM=48K, GPIO=100, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L433VCIX",
-    "description": "Flash=256K, RAM=48K, GPIO=100, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L433CBTX",
+    "label": "STM32L433CB",
     "description": "Flash=128K, RAM=48K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L433CBUX",
-    "description": "Flash=128K, RAM=48K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
+    "label": "STM32L433CC",
+    "description": "Flash=256K, RAM=48K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L433CBYX",
-    "description": "Flash=128K, RAM=48K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L433RBTX",
+    "label": "STM32L433RB",
     "description": "Flash=128K, RAM=48K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L433RBYX",
-    "description": "Flash=128K, RAM=48K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L433RBIX",
-    "description": "Flash=128K, RAM=48K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L442KCUX",
-    "description": "Flash=256K, RAM=48K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L443CCTX",
-    "description": "Flash=256K, RAM=48K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L443CCUX",
-    "description": "Flash=256K, RAM=48K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L443CCYX",
-    "description": "Flash=256K, RAM=48K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L443RCTX",
+    "label": "STM32L433RC",
     "description": "Flash=256K, RAM=48K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L443RCYX",
-    "description": "Flash=256K, RAM=48K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L443RCIX",
-    "description": "Flash=256K, RAM=48K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
-  },
-  {
-    "label": "STM32L443VCTX",
+    "label": "STM32L433VC",
     "description": "Flash=256K, RAM=48K, GPIO=100, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L443VCIX",
+    "label": "STM32L442KC",
+    "description": "Flash=256K, RAM=48K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
+  },
+  {
+    "label": "STM32L443CC",
+    "description": "Flash=256K, RAM=48K, GPIO=48, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
+  },
+  {
+    "label": "STM32L443RC",
+    "description": "Flash=256K, RAM=48K, GPIO=64, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
+  },
+  {
+    "label": "STM32L443VC",
     "description": "Flash=256K, RAM=48K, GPIO=100, Clock=80MHz, Core=M4, USART=4, SPI=3, I2C=3, Timer=11"
   },
   {
-    "label": "STM32L451RETX",
-    "description": "Flash=512K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L451REYX",
-    "description": "Flash=512K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L451REIX",
-    "description": "Flash=512K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L451CEUX",
-    "description": "Flash=512K, RAM=128K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L451VETX",
-    "description": "Flash=512K, RAM=128K, GPIO=100, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L451VEIX",
-    "description": "Flash=512K, RAM=128K, GPIO=100, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L451RCTX",
-    "description": "Flash=256K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L451RCYX",
-    "description": "Flash=256K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L451RCIX",
-    "description": "Flash=256K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L451CCUX",
+    "label": "STM32L451CC",
     "description": "Flash=256K, RAM=128K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L451VCTX",
-    "description": "Flash=256K, RAM=128K, GPIO=100, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L451VCIX",
-    "description": "Flash=256K, RAM=128K, GPIO=100, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L452RETX",
-    "description": "Flash=512K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L452RETXP",
-    "description": "Flash=512K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L452REYX",
-    "description": "Flash=512K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L452REIX",
-    "description": "Flash=512K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L452CEUX",
+    "label": "STM32L451CE",
     "description": "Flash=512K, RAM=128K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L452VETX",
+    "label": "STM32L451RC",
+    "description": "Flash=256K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L451RE",
+    "description": "Flash=512K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L451VC",
+    "description": "Flash=256K, RAM=128K, GPIO=100, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L451VE",
     "description": "Flash=512K, RAM=128K, GPIO=100, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L452VEIX",
-    "description": "Flash=512K, RAM=128K, GPIO=100, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L452RCTX",
-    "description": "Flash=256K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L452RCYX",
-    "description": "Flash=256K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L452RCIX",
-    "description": "Flash=256K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L452CCUX",
+    "label": "STM32L452CC",
     "description": "Flash=256K, RAM=128K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L452VCTX",
-    "description": "Flash=256K, RAM=128K, GPIO=100, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L452VCIX",
-    "description": "Flash=256K, RAM=128K, GPIO=100, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L462RETX",
-    "description": "Flash=512K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L462REYX",
-    "description": "Flash=512K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L462REIX",
-    "description": "Flash=512K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L462CEUX",
+    "label": "STM32L452CE",
     "description": "Flash=512K, RAM=128K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L462VETX",
+    "label": "STM32L452RC",
+    "description": "Flash=256K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L452RE",
+    "description": "Flash=512K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L452VC",
+    "description": "Flash=256K, RAM=128K, GPIO=100, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L452VE",
     "description": "Flash=512K, RAM=128K, GPIO=100, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L462VEIX",
+    "label": "STM32L462CE",
+    "description": "Flash=512K, RAM=128K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L462RE",
+    "description": "Flash=512K, RAM=128K, GPIO=64, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L462VE",
     "description": "Flash=512K, RAM=128K, GPIO=100, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L471RETX",
-    "description": "Flash=512K, RAM=96K, GPIO=64, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L471VETX",
-    "description": "Flash=512K, RAM=96K, GPIO=100, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L471QEIX",
+    "label": "STM32L471QE",
     "description": "Flash=512K, RAM=96K, GPIO=132, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
   },
   {
-    "label": "STM32L471ZETX",
-    "description": "Flash=512K, RAM=96K, GPIO=144, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L471RGTX",
-    "description": "Flash=1024K, RAM=96K, GPIO=64, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L471VGTX",
-    "description": "Flash=1024K, RAM=96K, GPIO=100, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L471QGIX",
+    "label": "STM32L471QG",
     "description": "Flash=1024K, RAM=96K, GPIO=132, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
   },
   {
-    "label": "STM32L471ZGTX",
-    "description": "Flash=1024K, RAM=96K, GPIO=144, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L471ZGJX",
-    "description": "Flash=512K, RAM=96K, GPIO=144, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L471ZEJX",
-    "description": "Flash=512K, RAM=96K, GPIO=144, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L475RCTX",
-    "description": "Flash=256K, RAM=96K, GPIO=64, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L475VCTX",
-    "description": "Flash=256K, RAM=96K, GPIO=100, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L475RETX",
+    "label": "STM32L471RE",
     "description": "Flash=512K, RAM=96K, GPIO=64, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
   },
   {
-    "label": "STM32L475VETX",
-    "description": "Flash=512K, RAM=96K, GPIO=100, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L475RGTX",
+    "label": "STM32L471RG",
     "description": "Flash=1024K, RAM=96K, GPIO=64, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
   },
   {
-    "label": "STM32L475VGTX",
+    "label": "STM32L471VE",
+    "description": "Flash=512K, RAM=96K, GPIO=100, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+  },
+  {
+    "label": "STM32L471VG",
     "description": "Flash=1024K, RAM=96K, GPIO=100, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
   },
   {
-    "label": "STM32L476RCTX",
+    "label": "STM32L471ZE",
+    "description": "Flash=512K, RAM=96K, GPIO=144, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+  },
+  {
+    "label": "STM32L471ZG",
+    "description": "Flash=512K, RAM=96K, GPIO=144, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+  },
+  {
+    "label": "STM32L475RC",
     "description": "Flash=256K, RAM=96K, GPIO=64, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
   },
   {
-    "label": "STM32L476VCTX",
-    "description": "Flash=256K, RAM=96K, GPIO=100, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L476RETX",
+    "label": "STM32L475RE",
     "description": "Flash=512K, RAM=96K, GPIO=64, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
   },
   {
-    "label": "STM32L476JEYX",
+    "label": "STM32L475RG",
+    "description": "Flash=1024K, RAM=96K, GPIO=64, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+  },
+  {
+    "label": "STM32L475VC",
+    "description": "Flash=256K, RAM=96K, GPIO=100, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+  },
+  {
+    "label": "STM32L475VE",
+    "description": "Flash=512K, RAM=96K, GPIO=100, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+  },
+  {
+    "label": "STM32L475VG",
+    "description": "Flash=1024K, RAM=96K, GPIO=100, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+  },
+  {
+    "label": "STM32L476JE",
     "description": "Flash=512K, RAM=96K, GPIO=72, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
   },
   {
-    "label": "STM32L476MEYX",
+    "label": "STM32L476JG",
+    "description": "Flash=1024K, RAM=96K, GPIO=72, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+  },
+  {
+    "label": "STM32L476ME",
     "description": "Flash=512K, RAM=96K, GPIO=81, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
   },
   {
-    "label": "STM32L476VETX",
-    "description": "Flash=512K, RAM=96K, GPIO=100, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L476QEIX",
-    "description": "Flash=512K, RAM=96K, GPIO=132, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L476ZETX",
-    "description": "Flash=512K, RAM=96K, GPIO=144, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L476RGTX",
-    "description": "Flash=1024K, RAM=96K, GPIO=64, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L476ZGTX",
-    "description": "Flash=1024K, RAM=96K, GPIO=144, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L476ZGTXP",
-    "description": "Flash=256K, RAM=96K, GPIO=144, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L476JGYX",
-    "description": "Flash=1024K, RAM=96K, GPIO=72, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L476JGYXP",
-    "description": "Flash=1024K, RAM=96K, GPIO=72, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L476MGYX",
+    "label": "STM32L476MG",
     "description": "Flash=1024K, RAM=96K, GPIO=81, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
   },
   {
-    "label": "STM32L476VGTX",
-    "description": "Flash=1024K, RAM=96K, GPIO=100, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+    "label": "STM32L476QE",
+    "description": "Flash=512K, RAM=96K, GPIO=132, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
   },
   {
-    "label": "STM32L476QGIX",
+    "label": "STM32L476QG",
     "description": "Flash=1024K, RAM=96K, GPIO=132, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
   },
   {
-    "label": "STM32L476ZGJX",
-    "description": "Flash=1024K, RAM=96K, GPIO=144, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+    "label": "STM32L476RC",
+    "description": "Flash=256K, RAM=96K, GPIO=64, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
   },
   {
-    "label": "STM32L485JCYX",
-    "description": "Flash=256K, RAM=96K, GPIO=72, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+    "label": "STM32L476RE",
+    "description": "Flash=512K, RAM=96K, GPIO=64, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
   },
   {
-    "label": "STM32L485JEYX",
-    "description": "Flash=512K, RAM=96K, GPIO=72, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
-  },
-  {
-    "label": "STM32L486RGTX",
+    "label": "STM32L476RG",
     "description": "Flash=1024K, RAM=96K, GPIO=64, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
   },
   {
-    "label": "STM32L486JGYX",
-    "description": "Flash=1024K, RAM=96K, GPIO=72, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+    "label": "STM32L476VC",
+    "description": "Flash=256K, RAM=96K, GPIO=100, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
   },
   {
-    "label": "STM32L486VGTX",
+    "label": "STM32L476VE",
+    "description": "Flash=512K, RAM=96K, GPIO=100, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+  },
+  {
+    "label": "STM32L476VG",
     "description": "Flash=1024K, RAM=96K, GPIO=100, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
   },
   {
-    "label": "STM32L486QGIX",
-    "description": "Flash=1024K, RAM=96K, GPIO=132, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+    "label": "STM32L476ZE",
+    "description": "Flash=512K, RAM=96K, GPIO=144, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
   },
   {
-    "label": "STM32L486ZGTX",
+    "label": "STM32L476ZG",
     "description": "Flash=1024K, RAM=96K, GPIO=144, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
   },
   {
-    "label": "STM32L496RGTX",
+    "label": "STM32L485JC",
+    "description": "Flash=256K, RAM=96K, GPIO=72, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+  },
+  {
+    "label": "STM32L485JE",
+    "description": "Flash=512K, RAM=96K, GPIO=72, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+  },
+  {
+    "label": "STM32L486JG",
+    "description": "Flash=1024K, RAM=96K, GPIO=72, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+  },
+  {
+    "label": "STM32L486QG",
+    "description": "Flash=1024K, RAM=96K, GPIO=132, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+  },
+  {
+    "label": "STM32L486RG",
+    "description": "Flash=1024K, RAM=96K, GPIO=64, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+  },
+  {
+    "label": "STM32L486VG",
+    "description": "Flash=1024K, RAM=96K, GPIO=100, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+  },
+  {
+    "label": "STM32L486ZG",
+    "description": "Flash=1024K, RAM=96K, GPIO=144, Clock=80MHz, Core=M4, USART=6, SPI=3, I2C=3, Timer=16"
+  },
+  {
+    "label": "STM32L496AE",
     "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L496RGTXP",
+    "label": "STM32L496AG",
     "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L496VGTX",
-    "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L496VGTXP",
-    "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L496VGYX",
-    "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L496VGYXP",
-    "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L496WGYXP",
-    "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L496QGIX",
-    "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L496QGIXP",
-    "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L496ZGTX",
-    "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L496ZGTXP",
-    "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L496AGIX",
-    "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L496AGIXP",
-    "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L496VETX",
+    "label": "STM32L496QE",
     "description": "Flash=512K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L496AEIX",
+    "label": "STM32L496QG",
     "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L496QEIX",
+    "label": "STM32L496RE",
     "description": "Flash=512K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L496RETX",
+    "label": "STM32L496RG",
+    "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L496VE",
     "description": "Flash=512K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L496ZETX",
+    "label": "STM32L496VG",
+    "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L496WG",
+    "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L496ZE",
     "description": "Flash=512K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L4A6RGTX",
+    "label": "STM32L496ZG",
     "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L4A6RGTXP",
+    "label": "STM32L4A6AG",
     "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L4A6VGTX",
+    "label": "STM32L4A6QG",
     "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L4A6VGTXP",
+    "label": "STM32L4A6RG",
     "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L4A6VGYX",
+    "label": "STM32L4A6VG",
     "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L4A6VGYXP",
+    "label": "STM32L4A6ZG",
     "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L4A6QGIX",
-    "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4A6QGIXP",
-    "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4A6ZGTX",
-    "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4A6ZGTXP",
-    "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4A6AGIX",
-    "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4A6AGIXP",
-    "description": "Flash=1024K, RAM=256K, GPIO=48, Clock=80MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R5AGIX",
-    "description": "Flash=1024K, RAM=640K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R5QGIX",
-    "description": "Flash=1024K, RAM=640K, GPIO=132, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R5VGTX",
-    "description": "Flash=1024K, RAM=640K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R5ZGTX",
-    "description": "Flash=1024K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R5ZGYX",
-    "description": "Flash=1024K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R5QIIX",
-    "description": "Flash=2048K, RAM=640K, GPIO=132, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R5VITX",
-    "description": "Flash=2048K, RAM=640K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R5ZITX",
-    "description": "Flash=2048K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R5ZITXP",
-    "description": "Flash=2048K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R5ZIYX",
-    "description": "Flash=2048K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R5AIIX",
-    "description": "Flash=2048K, RAM=640K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R7VITX",
-    "description": "Flash=2048K, RAM=640K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R7ZITX",
-    "description": "Flash=2048K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R7AIIX",
-    "description": "Flash=2048K, RAM=640K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R9AGIX",
-    "description": "Flash=1024K, RAM=640K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R9VGTX",
-    "description": "Flash=1024K, RAM=640K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R9ZGTX",
-    "description": "Flash=1024K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R9ZGJX",
-    "description": "Flash=1024K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R9ZGYX",
-    "description": "Flash=1024K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R9VITX",
-    "description": "Flash=2048K, RAM=640K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R9AIIX",
-    "description": "Flash=2048K, RAM=640K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R9ZITX",
-    "description": "Flash=2048K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R9ZIJX",
-    "description": "Flash=2048K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R9ZIYX",
-    "description": "Flash=2048K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4R9ZIYXP",
-    "description": "Flash=2048K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4S5AIIX",
-    "description": "Flash=2048K, RAM=640K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4S5QIIX",
-    "description": "Flash=2048K, RAM=640K, GPIO=132, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4S5VITX",
-    "description": "Flash=2048K, RAM=640K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4S5ZITX",
-    "description": "Flash=2048K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4S5ZIYX",
-    "description": "Flash=2048K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4S7AIIX",
-    "description": "Flash=2048K, RAM=640K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4S7VITX",
-    "description": "Flash=2048K, RAM=640K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4S7ZITX",
-    "description": "Flash=2048K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4S9AIIX",
-    "description": "Flash=2048K, RAM=640K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4S9VITX",
-    "description": "Flash=2048K, RAM=640K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4S9ZITX",
-    "description": "Flash=2048K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4S9ZIYX",
-    "description": "Flash=2048K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4S9ZIJX",
-    "description": "Flash=2048K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4Q5CGTX",
-    "description": "Flash=1024K, RAM=128K, GPIO=48, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4Q5RGTX",
-    "description": "Flash=1024K, RAM=128K, GPIO=64, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4Q5VGTX",
-    "description": "Flash=1024K, RAM=128K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4Q5QGIX",
-    "description": "Flash=1024K, RAM=128K, GPIO=132, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4Q5ZGTX",
-    "description": "Flash=1024K, RAM=128K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4Q5AGIX",
-    "description": "Flash=1024K, RAM=128K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4Q5CGUX",
-    "description": "Flash=1024K, RAM=128K, GPIO=48, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4Q5VGYX",
-    "description": "Flash=1024K, RAM=128K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4P5CGTX",
-    "description": "Flash=1024K, RAM=128K, GPIO=48, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4P5CGTXP",
-    "description": "Flash=1024K, RAM=128K, GPIO=48, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4P5RGTX",
-    "description": "Flash=1024K, RAM=128K, GPIO=64, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4P5RGTXP",
-    "description": "Flash=1024K, RAM=128K, GPIO=64, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4P5VGTX",
-    "description": "Flash=1024K, RAM=128K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4P5VGTXP",
-    "description": "Flash=1024K, RAM=128K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4P5QGIX",
-    "description": "Flash=1024K, RAM=128K, GPIO=132, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4P5QGIXP",
-    "description": "Flash=1024K, RAM=128K, GPIO=132, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4P5ZGTX",
-    "description": "Flash=1024K, RAM=128K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4P5ZGTXP",
-    "description": "Flash=1024K, RAM=128K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4P5AGIX",
-    "description": "Flash=1024K, RAM=128K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4P5AGIXP",
-    "description": "Flash=1024K, RAM=128K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4P5CGUX",
-    "description": "Flash=1024K, RAM=128K, GPIO=48, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4P5CGUXP",
-    "description": "Flash=1024K, RAM=128K, GPIO=48, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4P5VGYX",
-    "description": "Flash=1024K, RAM=128K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4P5VGYXP",
-    "description": "Flash=1024K, RAM=128K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
-  },
-  {
-    "label": "STM32L4P5AEIX",
+    "label": "STM32L4P5AE",
     "description": "Flash=512K, RAM=128K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L4P5CETX",
+    "label": "STM32L4P5AG",
+    "description": "Flash=1024K, RAM=128K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4P5CE",
     "description": "Flash=512K, RAM=128K, GPIO=48, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L4P5CEUX",
-    "description": "Flash=512K, RAM=128K, GPIO=48, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+    "label": "STM32L4P5CG",
+    "description": "Flash=1024K, RAM=128K, GPIO=48, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L4P5QEIX",
+    "label": "STM32L4P5QE",
     "description": "Flash=512K, RAM=128K, GPIO=132, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L4P5RETX",
+    "label": "STM32L4P5QG",
+    "description": "Flash=1024K, RAM=128K, GPIO=132, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4P5RE",
     "description": "Flash=512K, RAM=128K, GPIO=64, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L4P5VETX",
+    "label": "STM32L4P5RG",
+    "description": "Flash=1024K, RAM=128K, GPIO=64, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4P5VE",
     "description": "Flash=512K, RAM=128K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L4P5VEYX",
-    "description": "Flash=512K, RAM=128K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+    "label": "STM32L4P5VG",
+    "description": "Flash=1024K, RAM=128K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   },
   {
-    "label": "STM32L4P5ZETX",
+    "label": "STM32L4P5ZE",
     "description": "Flash=512K, RAM=128K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4P5ZG",
+    "description": "Flash=1024K, RAM=128K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4Q5AG",
+    "description": "Flash=1024K, RAM=128K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4Q5CG",
+    "description": "Flash=1024K, RAM=128K, GPIO=48, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4Q5QG",
+    "description": "Flash=1024K, RAM=128K, GPIO=132, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4Q5RG",
+    "description": "Flash=1024K, RAM=128K, GPIO=64, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4Q5VG",
+    "description": "Flash=1024K, RAM=128K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4Q5ZG",
+    "description": "Flash=1024K, RAM=128K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4R5AG",
+    "description": "Flash=1024K, RAM=640K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4R5AI",
+    "description": "Flash=2048K, RAM=640K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4R5QG",
+    "description": "Flash=1024K, RAM=640K, GPIO=132, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4R5QI",
+    "description": "Flash=2048K, RAM=640K, GPIO=132, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4R5VG",
+    "description": "Flash=1024K, RAM=640K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4R5VI",
+    "description": "Flash=2048K, RAM=640K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4R5ZG",
+    "description": "Flash=1024K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4R5ZI",
+    "description": "Flash=2048K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4R7AI",
+    "description": "Flash=2048K, RAM=640K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4R7VI",
+    "description": "Flash=2048K, RAM=640K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4R7ZI",
+    "description": "Flash=2048K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4R9AG",
+    "description": "Flash=1024K, RAM=640K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4R9AI",
+    "description": "Flash=2048K, RAM=640K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4R9VG",
+    "description": "Flash=1024K, RAM=640K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4R9VI",
+    "description": "Flash=2048K, RAM=640K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4R9ZG",
+    "description": "Flash=1024K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4R9ZI",
+    "description": "Flash=2048K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4S5AI",
+    "description": "Flash=2048K, RAM=640K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4S5QI",
+    "description": "Flash=2048K, RAM=640K, GPIO=132, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4S5VI",
+    "description": "Flash=2048K, RAM=640K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4S5ZI",
+    "description": "Flash=2048K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4S7AI",
+    "description": "Flash=2048K, RAM=640K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4S7VI",
+    "description": "Flash=2048K, RAM=640K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4S7ZI",
+    "description": "Flash=2048K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4S9AI",
+    "description": "Flash=2048K, RAM=640K, GPIO=169, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4S9VI",
+    "description": "Flash=2048K, RAM=640K, GPIO=100, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
+  },
+  {
+    "label": "STM32L4S9ZI",
+    "description": "Flash=2048K, RAM=640K, GPIO=144, Clock=120MHz, Core=M4, USART=2, SPI=1, I2C=1, Timer=3"
   }
 ]

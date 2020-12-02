@@ -124,5 +124,11 @@
     "0",
     "0",
     "FPU_IRQnHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0365",
+    "Datasheet/DS9911",
+    "Programming-Manual/PM0214",
+    "Errata/ES0231"
   ]
 }

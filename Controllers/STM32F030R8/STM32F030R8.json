@@ -71,5 +71,11 @@
     "SPI2_IRQHandler",
     "USART1_IRQHandler",
     "USART2_IRQHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0360",
+    "Datasheet/DS9773",
+    "Programming-Manual/PM0215",
+    "Errata/ES0219"
   ]
 }

@@ -135,5 +135,11 @@
     "DMA2D_IRQnHandler",
     "QUADSPI_IRQnHandler",
     "DSI_IRQnHandler"
+  ],
+  "documentation": [
+    "Reference-Manual/RM0386",
+    "Datasheet/DS11189",
+    "Programming-Manual/PM0214",
+    "Errata/ES0321"
   ]
 }
