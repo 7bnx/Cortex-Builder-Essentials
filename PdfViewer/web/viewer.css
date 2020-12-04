@@ -2377,7 +2377,7 @@ html[dir='rtl'] #documentPropertiesOverlay .row > * {
   }
 }
 
-@media all and (max-width: 840px) {
+@media all and (max-width: 10000px) {
   #sidebarContent {
     background-color: rgba(0, 0, 0, 0.7);
   }
